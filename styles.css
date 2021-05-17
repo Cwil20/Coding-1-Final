@@ -8,8 +8,8 @@
     font-size: 40px;
     font-weight:normal;
 }
-.about {
-    background-color: black;
+.text {
+    line-height: 1.5;
     color: white;
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
@@ -17,6 +17,9 @@ h1 {
     font-weight: bold;
     text-align: center;
     font-size: 60px;
+}
+hr {
+    border: white 3px solid;
 }
 nav{
     background-color: #212121;
@@ -29,4 +32,7 @@ footer {
     text-align: center;
     font-size: 70px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    background-color: black;
 }
