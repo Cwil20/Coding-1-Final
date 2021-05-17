@@ -1,7 +1,12 @@
-.column-image {
+.about-image {
     height: 600px;
     width:480px;
     padding-right: 1.3rem;
+}
+.contact-image {
+    height:200px;
+    width: 500px;
+    padding-right: 4rem;
 }
 .column-text {
     padding-left: 1rem;
